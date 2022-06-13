@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.Trigger
+{
+  background-color: white;
+  font: inherit;
+  border: 2px solid black;
+  padding: 8px;
+  cursor: pointer;
+}
